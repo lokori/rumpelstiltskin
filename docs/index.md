@@ -13,8 +13,8 @@ We are mostly interested in technical penetration testing gigs and live hack eve
 
 If you have a proposal or simply need experienced hackers to help you with something, contact us:
 
-General inquiry and sales: sales@rotco.fi
-Jarmo Puttonen (CEO): jarmo@rotco.fi
+* General inquiry and sales: sales@rotco.fi
+* Jarmo Puttonen (CEO): jarmo@rotco.fi
 
 
 # References
