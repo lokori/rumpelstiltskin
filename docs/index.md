@@ -2,7 +2,7 @@
 
 We are Rotco Oy, a team of six hackers from Finland. We are also known as white hat hackers of [Team ROT](https://www.rot.fi) for our non-profit activities. Hacking and learning new things about security is a passion for us, not just a job that pays the bills. We want to have fun, but Rotco Oy is our professional and commercial side.
 
-![Rotco team](./rotco.jpg)
+![Rotco team](./rotco-team.jpg)
 
 
 # Rotco services 
